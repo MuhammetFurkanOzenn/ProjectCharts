@@ -68,7 +68,7 @@ const AnalysisScreen = props => {
 export default AnalysisScreen;
 
 // asd
-
+//asdsd
 const windowHeight = Dimensions.get('window').height
 const windowWidth = Dimensions.get('window').width
 const styles = StyleSheet.create({
